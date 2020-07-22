@@ -1,2 +1,1 @@
-# TR1
-Remake of Tomb Raider 1
+# Tomb Raider 1
